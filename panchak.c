@@ -63,3 +63,13 @@
 				printf("tant que la condition est vraie");
 				compteur++;
 			}while(condition);
+
+
+            
+//fonction
+type nomFonction(parametresEntrée){ 
+//type= type de ce que la fonction sort
+//parametreEntrée 
+	//instruction ;
+	return ; // 
+}
