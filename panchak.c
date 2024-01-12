@@ -65,11 +65,16 @@
 			}while(condition);
 
 
-            
-//fonction
-type nomFonction(parametresEntrée){ 
-//type= type de ce que la fonction sort
-//parametreEntrée 
-	//instruction ;
-	return ; // 
+
+//tableau
+
+void main(void){
+	
+	int nomTableau[tailleTableau] = {valaur1, valeur2, ...};
+
+	for (int i=0 ; i<tailleTableau ; i++){
+		printf("l'emplacemant %d a la valeur %d.", i , nomTableau[i]);   
+		// afficher toutes les valeurs dans le tableau et leur emplacement grace a [i]
+	}
+
 }
